@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+FIRST NEED TO SETUP JSON SERVER !!!!!!!!
+
+https://www.npmjs.com/package/json-server
+
+### `npm install -g json-server`
+
+AND START THE JSON-SERVER on port 5001
+
+### `npx json-server --watch data/traveldb.json --port 5001`
+
 In the project directory, you can run:
 
 ### `npm start`
